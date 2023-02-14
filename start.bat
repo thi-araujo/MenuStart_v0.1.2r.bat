@@ -4,7 +4,7 @@
 ::Data da revis�o: 23/12/2022
 
 
-::Altera a pagina do cmd para 1252 trabalhando assim com acentos e caracteres especiais
+::Altera a página do cmd para 1252 trabalhando assim com acentos e caracteres especiais
 chcp 1252 >nul 2>&1
 
 ::Define o caminho do script
@@ -20,4 +20,3 @@ set returnFirstMenu=%tmp%\returnFirstMenu.txt
 set returnSubMenu=%tmp%\returnSubMenu.txt
 set logoff=%tmp%\logoff.txt
 set restart=%tmp%\restart.txt
-
