@@ -20,3 +20,5 @@ set returnFirstMenu=%tmp%\returnFirstMenu.txt
 set returnSubMenu=%tmp%\returnSubMenu.txt
 set logoff=%tmp%\logoff.txt
 set restart=%tmp%\restart.txt
+
+::Exclui os arquivos tempor�rio
