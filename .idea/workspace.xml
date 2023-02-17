@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;restart&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;comentario: Exclui os arquivos tempor�rio &quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676408692980</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;comentario: Exclui os arquivos tempor�rio &quot;">
+      <created>1676509173365</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676509173365</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;restart&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;restart&quot;" />
+    <MESSAGE value="&quot;comentario: Exclui os arquivos tempor�rio &quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;comentario: Exclui os arquivos tempor�rio &quot;" />
   </component>
 </project>

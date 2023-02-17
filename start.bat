@@ -22,3 +22,4 @@ set logoff=%tmp%\logoff.txt
 set restart=%tmp%\restart.txt
 
 ::Exclui os arquivos tempor�rio
+del /q %logoff%           >nul 2>&1
