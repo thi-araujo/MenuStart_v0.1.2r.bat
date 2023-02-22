@@ -27,3 +27,5 @@ del /q %restart%          >nul 2>&1
 del /q %returnMenu%       >nul 2>&1
 del /q %returnFirstMenu%  >nul 2>&1
 del /q %returnSubMenu%    >nul 2>&1
+
+::Verifica se o cmd esta sendo executado como Administrador
