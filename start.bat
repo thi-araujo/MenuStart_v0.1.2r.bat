@@ -33,3 +33,9 @@ net file >nul 2>&1
 if '%errorlevel%' EQU '0' (
 	goto menu
 ) else (
+    cls
+	echo.
+	echo N�o � poss�vel executar este script corretamente se voc� n�o possuir privil�gios de Administrador
+	timeout /t 5 >nul 2>&1
+	cls
+
