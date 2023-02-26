@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;VERIFICA ADM&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start.bat" beforeDir="false" afterPath="$PROJECT_DIR$/start.bat" afterDir="false" />
-    </list>
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Não � possível executar este script corretamente se voce não possuir privilégios de Administrador&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677262130604</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="&quot;Não � possível executar este script corretamente se voce não possuir privilégios de Administrador&quot;">
+      <created>1677341192437</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677341192437</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +154,7 @@
     <MESSAGE value="&quot;comentario&quot;" />
     <MESSAGE value="&quot;adm&quot;" />
     <MESSAGE value="&quot;VERIFICA ADM&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;VERIFICA ADM&quot;" />
+    <MESSAGE value="&quot;Não � possível executar este script corretamente se voce não possuir privilégios de Administrador&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Não � possível executar este script corretamente se voce não possuir privilégios de Administrador&quot;" />
   </component>
 </project>
