@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;script será encerrado,&quot;">
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Menu de Ações,&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677441180937</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="&quot;Menu de Ações,&quot;">
+      <created>1677619179861</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1677619179861</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -171,6 +178,7 @@
     <MESSAGE value="&quot;VERIFICA ADM&quot;" />
     <MESSAGE value="&quot;Não � possível executar este script corretamente se voce não possuir privilégios de Administrador&quot;" />
     <MESSAGE value="&quot;script será encerrado,&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;script será encerrado,&quot;" />
+    <MESSAGE value="&quot;Menu de Ações,&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Menu de Ações,&quot;" />
   </component>
 </project>
