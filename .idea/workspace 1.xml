@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e88ad9aa-701d-4380-9740-1aeed5a6f912" name="Changes" comment="&quot;submenu&quot;" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L8nnNRQEtp3KQM53w3PQUB9wFy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e88ad9aa-701d-4380-9740-1aeed5a6f912" name="Changes" comment="" />
+      <created>1675261744807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675261744807</updated>
+    </task>
+    <task id="LOCAL-00001" summary="&quot;MENU START&quot;">
+      <created>1675274571678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675274571678</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;Acentos e caracteres especiais&quot;">
+      <created>1675334280316</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675334280316</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&quot;Define o caminho da script&quot;">
+      <created>1675362571493</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675362571493</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&quot;Define caminho da script&quot;">
+      <created>1675436168019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675436168019</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;caminho da script&quot;">
+      <created>1675527922207</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675527922207</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&quot;versão da script&quot;">
+      <created>1675708270159</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675708270159</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;version&quot;">
+      <created>1675766957453</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675766957453</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&quot;Define variaveis&quot;">
+      <created>1675900544345</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675900544345</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&quot;First menu&quot;">
+      <created>1676082449506</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676082449506</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&quot;submenu&quot;">
+      <created>1676134507777</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676134507777</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;MENU START&quot;" />
+    <MESSAGE value="&quot;Acentos e caracteres especiais&quot;" />
+    <MESSAGE value="&quot;Define o caminho da script&quot;" />
+    <MESSAGE value="&quot;Define caminho da script&quot;" />
+    <MESSAGE value="&quot;caminho da script&quot;" />
+    <MESSAGE value="&quot;versão da script&quot;" />
+    <MESSAGE value="&quot;version&quot;" />
+    <MESSAGE value="&quot;Define variaveis&quot;" />
+    <MESSAGE value="&quot;First menu&quot;" />
+    <MESSAGE value="&quot;submenu&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;submenu&quot;" />
+  </component>
+</project>
