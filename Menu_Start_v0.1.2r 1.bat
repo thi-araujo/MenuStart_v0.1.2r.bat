@@ -53,4 +53,6 @@ echo.
 echo Escolha qual op��o deseja executar e pressione enter:
 echo.
 echo 	1� Como o script funciona?
+echo.
+echo 	2� Atualiza as configura��es do PC/NB + icones
 

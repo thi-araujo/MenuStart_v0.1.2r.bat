@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opções do Menu de Ações,&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opção&quot;">
+      <change beforePath="$PROJECT_DIR$/Menu_Start_v0.1.2r 1.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Menu_Start_v0.1.2r 1.bat" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
