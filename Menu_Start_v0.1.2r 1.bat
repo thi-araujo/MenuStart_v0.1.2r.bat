@@ -55,4 +55,6 @@ echo.
 echo 	1� Como o script funciona?
 echo.
 echo 	2� Atualiza as configura��es do PC/NB + icones
+echo.
+echo 	3� Atualiza apenas os icones do PC/NB
 

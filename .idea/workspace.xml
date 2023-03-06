@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opção&quot;">
-      <change beforePath="$PROJECT_DIR$/Menu_Start_v0.1.2r 1.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Menu_Start_v0.1.2r 1.bat" afterDir="false" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opção 2 Atualiza as configura��es do PC/NB + icones&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,10 +30,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677699863602</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="&quot;Opção 2 Atualiza as configura��es do PC/NB + icones&quot;">
+      <created>1678031341408</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678031341408</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -187,6 +195,7 @@
     <MESSAGE value="&quot;script será encerrado,&quot;" />
     <MESSAGE value="&quot;Menu de Ações,&quot;" />
     <MESSAGE value="&quot;Opções do Menu de Ações,&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Opções do Menu de Ações,&quot;" />
+    <MESSAGE value="&quot;Opção 2 Atualiza as configura��es do PC/NB + icones&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Opção 2 Atualiza as configura��es do PC/NB + icones&quot;" />
   </component>
 </project>
