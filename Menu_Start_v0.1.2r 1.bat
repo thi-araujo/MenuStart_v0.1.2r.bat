@@ -57,4 +57,6 @@ echo.
 echo 	2� Atualiza as configura��es do PC/NB + icones
 echo.
 echo 	3� Atualiza apenas os icones do PC/NB
+echo.
+echo 	4� Atualiza as configura��es do PD AC + icones
 
