@@ -65,3 +65,5 @@ echo.
 echo 	6� Atualiza as configura��es do PD LQC + icones
 echo.
 echo 	7� Atualiza apenas os icones do PD LQC
+echo.
+echo 	8� Vers�o do script
