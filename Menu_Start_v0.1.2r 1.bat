@@ -67,3 +67,5 @@ echo.
 echo 	7� Atualiza apenas os icones do PD LQC
 echo.
 echo 	8� Vers�o do script
+echo.
+echo 	9� Mais op��es
