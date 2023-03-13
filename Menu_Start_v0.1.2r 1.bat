@@ -69,3 +69,5 @@ echo.
 echo 	8� Vers�o do script
 echo.
 echo 	9� Mais op��es
+echo.
+echo 	10� Sair
