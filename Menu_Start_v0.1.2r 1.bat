@@ -71,3 +71,5 @@ echo.
 echo 	9� Mais op��es
 echo.
 echo 	10� Sair
+echo.
+set menuOption=
