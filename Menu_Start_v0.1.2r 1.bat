@@ -74,3 +74,4 @@ echo 	10� Sair
 echo.
 set menuOption=
 set /p menuOption=Digite a op��o:
+if /i '%menuOption%' EQU '1'  goto howDoesItWork
