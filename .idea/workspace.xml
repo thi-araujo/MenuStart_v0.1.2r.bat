@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Options Menu&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Option Menu&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -214,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678815607079</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="&quot;Option Menu&quot;">
+      <created>1679016005617</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1679016005617</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -252,6 +257,7 @@
     <MESSAGE value="&quot;Opção 9 Mais opções&quot;" />
     <MESSAGE value="&quot;Opção 10 Sair&quot;" />
     <MESSAGE value="&quot;Options Menu&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Options Menu&quot;" />
+    <MESSAGE value="&quot;Option Menu&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Option Menu&quot;" />
   </component>
 </project>
