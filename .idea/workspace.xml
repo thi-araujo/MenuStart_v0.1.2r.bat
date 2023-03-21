@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Option Menu&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Atualizar icone desktop&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -226,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679016064044</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="&quot;Atualizar icone desktop&quot;">
+      <created>1679170451831</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1679170451831</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -265,6 +274,7 @@
     <MESSAGE value="&quot;Opção 10 Sair&quot;" />
     <MESSAGE value="&quot;Options Menu&quot;" />
     <MESSAGE value="&quot;Option Menu&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Option Menu&quot;" />
+    <MESSAGE value="&quot;Atualizar icone desktop&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Atualizar icone desktop&quot;" />
   </component>
 </project>
