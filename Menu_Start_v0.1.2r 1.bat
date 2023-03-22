@@ -78,3 +78,4 @@ if /i '%menuOption%' EQU '1'  goto howDoesItWork
 if /i '%menuOption%' EQU '2'  goto updateDesktop
 if /i '%menuOption%' EQU '3'  goto updateIconDesktop
 if /i '%menuOption%' EQU '4'  goto updatePdAc
+if /i '%menuOption%' EQU '5'  goto updateIconDesktopPdAc
