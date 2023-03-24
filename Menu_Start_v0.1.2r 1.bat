@@ -80,3 +80,4 @@ if /i '%menuOption%' EQU '3'  goto updateIconDesktop
 if /i '%menuOption%' EQU '4'  goto updatePdAc
 if /i '%menuOption%' EQU '5'  goto updateIconDesktopPdAc
 if /i '%menuOption%' EQU '6'  goto updatePdLqc
+if /i '%menuOption%' EQU '7'  goto updateIconDesktopPdLqc

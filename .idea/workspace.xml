@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Atualizar PD LQC &quot;">
-      <change beforePath="$PROJECT_DIR$/Menu_Start_v0.1.2r 1.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Menu_Start_v0.1.2r 1.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679170451831</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="&quot;Atualizar PD LQC &quot;">
+      <created>1679492054987</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1679492054987</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -275,6 +282,7 @@
     <MESSAGE value="&quot;Options Menu&quot;" />
     <MESSAGE value="&quot;Option Menu&quot;" />
     <MESSAGE value="&quot;Atualizar icone desktop&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Atualizar icone desktop&quot;" />
+    <MESSAGE value="&quot;Atualizar PD LQC &quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Atualizar PD LQC &quot;" />
   </component>
 </project>
