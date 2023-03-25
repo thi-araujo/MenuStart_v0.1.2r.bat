@@ -82,3 +82,4 @@ if /i '%menuOption%' EQU '5'  goto updateIconDesktopPdAc
 if /i '%menuOption%' EQU '6'  goto updatePdLqc
 if /i '%menuOption%' EQU '7'  goto updateIconDesktopPdLqc
 if /i '%menuOption%' EQU '8'  goto checkVersion
+if /i '%menuOption%' EQU '9'  goto subMenu
