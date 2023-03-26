@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Verificar Versão &quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;SubMenu &quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679699352857</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="&quot;SubMenu &quot;">
+      <created>1679769622418</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1679769622418</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -272,7 +279,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;comentario: Exclui os arquivos tempor�rio &quot;" />
     <MESSAGE value="&quot;restart&quot;" />
     <MESSAGE value="&quot;return&quot;" />
     <MESSAGE value="&quot;return first menu&quot;" />
@@ -297,6 +303,7 @@
     <MESSAGE value="&quot;Atualizar PD LQC &quot;" />
     <MESSAGE value="&quot;Atualizar Icone Desktop PD LQC &quot;" />
     <MESSAGE value="&quot;Verificar Versão &quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Verificar Versão &quot;" />
+    <MESSAGE value="&quot;SubMenu &quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;SubMenu &quot;" />
   </component>
 </project>
