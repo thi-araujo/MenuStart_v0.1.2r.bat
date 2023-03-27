@@ -84,3 +84,7 @@ if /i '%menuOption%' EQU '7'  goto updateIconDesktopPdLqc
 if /i '%menuOption%' EQU '8'  goto checkVersion
 if /i '%menuOption%' EQU '9'  goto subMenu
 if /i '%menuOption%' EQU '10' goto end
+
+cls
+echo.
+echo Essa n�o � uma op��o valida !
