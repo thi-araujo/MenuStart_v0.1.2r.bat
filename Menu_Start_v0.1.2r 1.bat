@@ -89,3 +89,6 @@ cls
 echo.
 echo Essa n�o � uma op��o valida !
 timeout /t 5 >nul 2>&1
+cls
+echo.
+echo Retornando ao menu de op��es
