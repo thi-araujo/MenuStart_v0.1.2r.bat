@@ -88,3 +88,4 @@ if /i '%menuOption%' EQU '10' goto end
 cls
 echo.
 echo Essa n�o � uma op��o valida !
+timeout /t 5 >nul 2>&1
