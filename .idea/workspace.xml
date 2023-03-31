@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Retornando ao Menu de Ações&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Return Menu de Ações&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -289,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680094193105</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="&quot;Return Menu de Ações&quot;">
+      <created>1680229283465</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1680229283465</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -307,7 +316,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;comentario&quot;" />
     <MESSAGE value="&quot;adm&quot;" />
     <MESSAGE value="&quot;VERIFICA ADM&quot;" />
     <MESSAGE value="&quot;Não � possível executar este script corretamente se voce não possuir privilégios de Administrador&quot;" />
@@ -332,6 +340,7 @@
     <MESSAGE value="&quot;Opcção invalida&quot;" />
     <MESSAGE value="&quot;Essa não é uma opção vãlida&quot;" />
     <MESSAGE value="&quot;Retornando ao Menu de Ações&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Retornando ao Menu de Ações&quot;" />
+    <MESSAGE value="&quot;Return Menu de Ações&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Return Menu de Ações&quot;" />
   </component>
 </project>

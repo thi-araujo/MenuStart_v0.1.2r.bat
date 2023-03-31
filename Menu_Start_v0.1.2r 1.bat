@@ -94,3 +94,7 @@ echo.
 echo Retornando ao menu de op��es
 timeout /t 5 >nul 2>&1
 goto menu
+
+::Option 1
+:howDoesItWork
+goto menu
