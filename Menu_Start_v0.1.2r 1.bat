@@ -92,3 +92,5 @@ timeout /t 5 >nul 2>&1
 cls
 echo.
 echo Retornando ao menu de op��es
+timeout /t 5 >nul 2>&1
+goto menu
