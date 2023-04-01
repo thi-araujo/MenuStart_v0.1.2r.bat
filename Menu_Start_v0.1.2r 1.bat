@@ -98,3 +98,7 @@ goto menu
 ::Option 1
 :howDoesItWork
 goto menu
+
+::Option 2
+:updateDesktop
+echo Option 2 >> %tmp%\returnMenu.txt
