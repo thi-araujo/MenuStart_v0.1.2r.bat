@@ -102,3 +102,11 @@ goto menu
 ::Option 2
 :updateDesktop
 echo Option 2 >> %tmp%\returnMenu.txt
+call src\scripts\correctionPrinters\printers.bat
+call src\scripts\numLockLogin\numlock.bat
+call src\scripts\disabledFirewall\firewall.bat
+call src\scripts\configUac\disableduac.bat
+call src\scripts\disabledSmartscreen\smartscreen.bat
+call src\scripts\disabledBingSearch\bingsearch.bat
+call src\scripts\updateDesktop\desktop.bat
+call src\scripts\checkActions\check.bat
