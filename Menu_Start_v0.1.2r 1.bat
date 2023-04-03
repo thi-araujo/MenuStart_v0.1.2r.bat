@@ -110,3 +110,9 @@ call src\scripts\disabledSmartscreen\smartscreen.bat
 call src\scripts\disabledBingSearch\bingsearch.bat
 call src\scripts\updateDesktop\desktop.bat
 call src\scripts\checkActions\check.bat
+
+::Option 3
+:updateIconDesktop
+echo Option 3 >> %tmp%\returnMenu.txt
+call src\scripts\updateDesktop\desktop.bat
+call src\scripts\checkActions\check.bat
