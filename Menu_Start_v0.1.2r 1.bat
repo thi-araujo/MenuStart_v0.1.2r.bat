@@ -116,3 +116,7 @@ call src\scripts\checkActions\check.bat
 echo Option 3 >> %tmp%\returnMenu.txt
 call src\scripts\updateDesktop\desktop.bat
 call src\scripts\checkActions\check.bat
+
+::Option 4
+:updatePdsAc
+echo Option 4 >> %tmp%\returnMenu.txt

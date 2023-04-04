@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opção 2&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opção 3&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -312,7 +310,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680463677177</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="&quot;Opção 3&quot;">
+      <created>1680542701506</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1680542701506</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -330,7 +335,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;VERIFICA ADM&quot;" />
     <MESSAGE value="&quot;Não � possível executar este script corretamente se voce não possuir privilégios de Administrador&quot;" />
     <MESSAGE value="&quot;script será encerrado,&quot;" />
     <MESSAGE value="&quot;Menu de Ações,&quot;" />
@@ -355,6 +359,7 @@
     <MESSAGE value="&quot;Retornando ao Menu de Ações&quot;" />
     <MESSAGE value="&quot;Return Menu de Ações&quot;" />
     <MESSAGE value="&quot;Opção 2&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Opção 2&quot;" />
+    <MESSAGE value="&quot;Opção 3&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Opção 3&quot;" />
   </component>
 </project>
