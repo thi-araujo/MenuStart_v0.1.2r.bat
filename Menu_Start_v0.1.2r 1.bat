@@ -120,3 +120,11 @@ call src\scripts\checkActions\check.bat
 ::Option 4
 :updatePdsAc
 echo Option 4 >> %tmp%\returnMenu.txt
+call src\scripts\correctionPrinters\printers.bat
+call src\scripts\numLockLogin\numlock.bat
+call src\scripts\disabledFirewall\firewall.bat
+call src\scripts\configUac\disableduac.bat
+call src\scripts\disabledSmartScreen\smartscreen.bat
+call src\scripts\disabledBingSearch\bingsearch.bat
+call src\scripts\updateDesktopPd\desktopPdAc.bat
+call src\scripts\checkActions\check.bat

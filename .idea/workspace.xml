@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opção 3&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opção 4&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -317,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680542701506</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="&quot;Opção 4&quot;">
+      <created>1680613909644</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1680613909644</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -335,7 +344,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Não � possível executar este script corretamente se voce não possuir privilégios de Administrador&quot;" />
     <MESSAGE value="&quot;script será encerrado,&quot;" />
     <MESSAGE value="&quot;Menu de Ações,&quot;" />
     <MESSAGE value="&quot;Opções do Menu de Ações,&quot;" />
@@ -360,6 +368,7 @@
     <MESSAGE value="&quot;Return Menu de Ações&quot;" />
     <MESSAGE value="&quot;Opção 2&quot;" />
     <MESSAGE value="&quot;Opção 3&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Opção 3&quot;" />
+    <MESSAGE value="&quot;Opção 4&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Opção 4&quot;" />
   </component>
 </project>
