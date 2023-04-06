@@ -128,3 +128,6 @@ call src\scripts\disabledSmartScreen\smartscreen.bat
 call src\scripts\disabledBingSearch\bingsearch.bat
 call src\scripts\updateDesktopPd\desktopPdAc.bat
 call src\scripts\checkActions\check.bat
+
+::Option 5
+:updateIconDesktopPdAc
