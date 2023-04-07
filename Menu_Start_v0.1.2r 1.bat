@@ -131,3 +131,6 @@ call src\scripts\checkActions\check.bat
 
 ::Option 5
 :updateIconDesktopPdAc
+echo Option 5 >> %tmp%\returnMenu.txt
+call src\scripts\updateDesktopPd\desktopPdAc.bat
+call src\scripts\checkActions\check.bat

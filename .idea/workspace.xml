@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opção 4&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opção 5&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -326,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680613909644</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="&quot;Opção 5&quot;">
+      <created>1680816633446</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1680816633446</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -344,7 +349,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;script será encerrado,&quot;" />
     <MESSAGE value="&quot;Menu de Ações,&quot;" />
     <MESSAGE value="&quot;Opções do Menu de Ações,&quot;" />
     <MESSAGE value="&quot;Opção 2 Atualiza as configura��es do PC/NB + icones&quot;" />
@@ -369,6 +373,7 @@
     <MESSAGE value="&quot;Opção 2&quot;" />
     <MESSAGE value="&quot;Opção 3&quot;" />
     <MESSAGE value="&quot;Opção 4&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Opção 4&quot;" />
+    <MESSAGE value="&quot;Opção 5&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Opção 5&quot;" />
   </component>
 </project>
