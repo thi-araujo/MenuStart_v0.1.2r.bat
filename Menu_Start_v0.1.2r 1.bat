@@ -134,3 +134,7 @@ call src\scripts\checkActions\check.bat
 echo Option 5 >> %tmp%\returnMenu.txt
 call src\scripts\updateDesktopPd\desktopPdAc.bat
 call src\scripts\checkActions\check.bat
+
+::Option 6
+:updatePdsLqc
+goto menu

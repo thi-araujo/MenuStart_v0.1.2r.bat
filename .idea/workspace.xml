@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opção 5&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opção-5&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -331,7 +331,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680816633446</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="&quot;Opção-5&quot;">
+      <created>1680884667326</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1680884667326</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -349,7 +356,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Menu de Ações,&quot;" />
     <MESSAGE value="&quot;Opções do Menu de Ações,&quot;" />
     <MESSAGE value="&quot;Opção 2 Atualiza as configura��es do PC/NB + icones&quot;" />
     <MESSAGE value="&quot;Opção 3 Atualiza apenas os icones do PC/NB&quot;" />
@@ -374,6 +380,7 @@
     <MESSAGE value="&quot;Opção 3&quot;" />
     <MESSAGE value="&quot;Opção 4&quot;" />
     <MESSAGE value="&quot;Opção 5&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Opção 5&quot;" />
+    <MESSAGE value="&quot;Opção-5&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Opção-5&quot;" />
   </component>
 </project>
