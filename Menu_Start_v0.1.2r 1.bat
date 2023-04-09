@@ -138,3 +138,8 @@ call src\scripts\checkActions\check.bat
 ::Option 6
 :updatePdsLqc
 goto menu
+
+::Option 7
+:updateIconDesktopPdLqc
+goto menu
+
