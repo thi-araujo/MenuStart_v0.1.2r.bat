@@ -139,7 +139,11 @@ call src\scripts\checkActions\check.bat
 :updatePdsLqc
 goto menu
 
+
 ::Option 7
 :updateIconDesktopPdLqc
 goto menu
 
+::Option 8
+:checkVersion
+cls
