@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opção-6&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opção-8&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -346,7 +346,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680976694504</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="&quot;Opção-8&quot;">
+      <created>1681262002907</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1681262002907</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -364,7 +371,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Opção 2 Atualiza as configura��es do PC/NB + icones&quot;" />
     <MESSAGE value="&quot;Opção 3 Atualiza apenas os icones do PC/NB&quot;" />
     <MESSAGE value="&quot;Opção 5 Atualiza apenas os icones do PD AC&quot;" />
     <MESSAGE value="&quot;Opção 7 Atualiza apenas os icones do PD LQC&quot;" />
@@ -389,6 +395,7 @@
     <MESSAGE value="&quot;Opção 5&quot;" />
     <MESSAGE value="&quot;Opção-5&quot;" />
     <MESSAGE value="&quot;Opção-6&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Opção-6&quot;" />
+    <MESSAGE value="&quot;Opção-8&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Opção-8&quot;" />
   </component>
 </project>
