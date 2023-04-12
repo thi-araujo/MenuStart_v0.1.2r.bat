@@ -147,3 +147,7 @@ goto menu
 ::Option 8
 :checkVersion
 cls
+echo.
+echo %version%
+timeout /t 5 >nul 2>&1
+goto menu
