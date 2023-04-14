@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opção 9&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opção-9&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -362,7 +360,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681324195404</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="&quot;Opção-9&quot;">
+      <created>1681437888622</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1681437888622</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -380,7 +385,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Opção 5 Atualiza apenas os icones do PD AC&quot;" />
     <MESSAGE value="&quot;Opção 7 Atualiza apenas os icones do PD LQC&quot;" />
     <MESSAGE value="&quot;Opção 8 Versão do script&quot;" />
     <MESSAGE value="&quot;Opção 9 Mais opções&quot;" />
@@ -405,6 +409,7 @@
     <MESSAGE value="&quot;Opção-6&quot;" />
     <MESSAGE value="&quot;Opção-8&quot;" />
     <MESSAGE value="&quot;Opção 9&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Opção 9&quot;" />
+    <MESSAGE value="&quot;Opção-9&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Opção-9&quot;" />
   </component>
 </project>
