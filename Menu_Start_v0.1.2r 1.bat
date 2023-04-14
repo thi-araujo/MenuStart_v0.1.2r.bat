@@ -154,3 +154,4 @@ goto menu
 
 ::Option 9
 :subMenu
+call src\scripts\subMenu\submenu.bat
