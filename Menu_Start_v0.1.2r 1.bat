@@ -159,3 +159,4 @@ call src\scripts\subMenu\submenu.bat
 :end
 title Finishing the script
 cls
+echo.
