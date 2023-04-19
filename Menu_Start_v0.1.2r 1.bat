@@ -160,3 +160,4 @@ call src\scripts\subMenu\submenu.bat
 title Finishing the script
 cls
 echo.
+echo Finalizando o script!
