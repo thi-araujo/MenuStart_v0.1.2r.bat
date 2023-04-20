@@ -161,3 +161,5 @@ title Finishing the script
 cls
 echo.
 echo Finalizando o script!
+taskkill /f /im caffeine.exe >nul 2>&1
+
