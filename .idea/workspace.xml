@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Finalizando o script&quot;">
-      <change beforePath="$PROJECT_DIR$/Menu_Start_v0.1.2r 1.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Menu_Start_v0.1.2r 1.bat" afterDir="false" />
-    </list>
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Habilitando app Caffeine&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -404,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681865200690</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="&quot;Habilitando app Caffeine&quot;">
+      <created>1681953547901</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1681953547901</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -422,7 +427,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Option Menu&quot;" />
     <MESSAGE value="&quot;Atualizar icone desktop&quot;" />
     <MESSAGE value="&quot;Atualizar PD LQC &quot;" />
     <MESSAGE value="&quot;Atualizar Icone Desktop PD LQC &quot;" />
@@ -447,6 +451,7 @@
     <MESSAGE value="&quot;cls final da script&quot;" />
     <MESSAGE value="&quot;echo final da script&quot;" />
     <MESSAGE value="&quot;Finalizando o script&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Finalizando o script&quot;" />
+    <MESSAGE value="&quot;Habilitando app Caffeine&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Habilitando app Caffeine&quot;" />
   </component>
 </project>

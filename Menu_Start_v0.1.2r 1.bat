@@ -162,4 +162,5 @@ cls
 echo.
 echo Finalizando o script!
 taskkill /f /im caffeine.exe >nul 2>&1
+timeout /t 5 >nul 2>&1
 
