@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Habilitando app Caffeine&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;\timeout&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,13 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00001" summary="&quot;restart&quot;">
-      <created>1676408692980</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1676408692980</updated>
     </task>
     <task id="LOCAL-00002" summary="&quot;comentario: Exclui os arquivos tempor�rio &quot;">
       <created>1676509173365</created>
@@ -409,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681953547901</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="&quot;\timeout&quot;">
+      <created>1682111861645</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1682111861645</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -427,7 +427,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Atualizar icone desktop&quot;" />
     <MESSAGE value="&quot;Atualizar PD LQC &quot;" />
     <MESSAGE value="&quot;Atualizar Icone Desktop PD LQC &quot;" />
     <MESSAGE value="&quot;Verificar Versão &quot;" />
@@ -452,6 +451,7 @@
     <MESSAGE value="&quot;echo final da script&quot;" />
     <MESSAGE value="&quot;Finalizando o script&quot;" />
     <MESSAGE value="&quot;Habilitando app Caffeine&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Habilitando app Caffeine&quot;" />
+    <MESSAGE value="&quot;\timeout&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;\timeout&quot;" />
   </component>
 </project>
