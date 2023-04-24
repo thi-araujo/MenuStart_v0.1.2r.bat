@@ -1,6 +1,6 @@
 @echo off
 
-::Data da cria��o: 18/09/2022
+::Data da criação: 18/09/2022
 ::Data da revis�o: 23/12/2022
 ::Autor: Weriton Goes
 
