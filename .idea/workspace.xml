@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Exit&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Data criação&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,13 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00003" summary="&quot;restart&quot;">
-      <created>1676686855549</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1676686855549</updated>
     </task>
     <task id="LOCAL-00004" summary="&quot;return&quot;">
       <created>1676853058065</created>
@@ -409,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682202104708</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="&quot;Data criação&quot;">
+      <created>1682296753771</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1682296753771</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -427,7 +427,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Atualizar Icone Desktop PD LQC &quot;" />
     <MESSAGE value="&quot;Verificar Versão &quot;" />
     <MESSAGE value="&quot;SubMenu &quot;" />
     <MESSAGE value="&quot;End &quot;" />
@@ -452,6 +451,7 @@
     <MESSAGE value="&quot;Habilitando app Caffeine&quot;" />
     <MESSAGE value="&quot;\timeout&quot;" />
     <MESSAGE value="&quot;Exit&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Exit&quot;" />
+    <MESSAGE value="&quot;Data criação&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Data criação&quot;" />
   </component>
 </project>
