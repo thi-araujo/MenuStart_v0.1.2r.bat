@@ -2,7 +2,7 @@
 
 ::Data da criação: 18/09/2022
 ::Data da revisão: 23/12/2022
-::Autor: Weriton Goes
+::Autor: Thiago Araújo
 
 ::Altera a pagina do cmd para 1252 trabalhando assim com acentos e caracteres especiais
 chcp 1252 >nul 2>&1
