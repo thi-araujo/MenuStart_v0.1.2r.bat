@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;página&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;correção da palarva variáveis&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,13 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00006" summary="&quot;return submenu&quot;">
-      <created>1677027729743</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1677027729743</updated>
     </task>
     <task id="LOCAL-00007" summary="&quot;comentario&quot;">
       <created>1677075339134</created>
@@ -409,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682563984844</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="&quot;correção da palarva variáveis&quot;">
+      <created>1682646542937</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1682646542937</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -427,7 +427,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;End &quot;" />
     <MESSAGE value="&quot;Opcção invalida&quot;" />
     <MESSAGE value="&quot;Essa não é uma opção vãlida&quot;" />
     <MESSAGE value="&quot;Retornando ao Menu de Ações&quot;" />
@@ -452,6 +451,7 @@
     <MESSAGE value="&quot;Data criação&quot;" />
     <MESSAGE value="&quot;Data revisão&quot;" />
     <MESSAGE value="&quot;página&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;página&quot;" />
+    <MESSAGE value="&quot;correção da palarva variáveis&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;correção da palarva variáveis&quot;" />
   </component>
 </project>
