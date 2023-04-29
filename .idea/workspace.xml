@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;correção da palarva variáveis&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;correção da palarva temporário&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,13 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00007" summary="&quot;comentario&quot;">
-      <created>1677075339134</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1677075339134</updated>
     </task>
     <task id="LOCAL-00008" summary="&quot;adm&quot;">
       <created>1677201384744</created>
@@ -409,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682646542937</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="&quot;correção da palarva temporário&quot;">
+      <created>1682721424604</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1682721424604</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -427,7 +427,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Opcção invalida&quot;" />
     <MESSAGE value="&quot;Essa não é uma opção vãlida&quot;" />
     <MESSAGE value="&quot;Retornando ao Menu de Ações&quot;" />
     <MESSAGE value="&quot;Return Menu de Ações&quot;" />
@@ -452,6 +451,7 @@
     <MESSAGE value="&quot;Data revisão&quot;" />
     <MESSAGE value="&quot;página&quot;" />
     <MESSAGE value="&quot;correção da palarva variáveis&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;correção da palarva variáveis&quot;" />
+    <MESSAGE value="&quot;correção da palarva temporário&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;correção da palarva temporário&quot;" />
   </component>
 </project>

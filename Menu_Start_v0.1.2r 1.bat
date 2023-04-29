@@ -21,7 +21,7 @@ set returnSubMenu=%tmp%\returnSubMenu.txt
 set logoff=%tmp%\logoff.txt
 set restart=%tmp%\restart.txt
 
-::Exclui os arquivos tempor�rio
+::Exclui os arquivos temporários
 del /q %logoff%           >nul 2>&1
 del /q %restart%          >nul 2>&1
 del /q %returnMenu%       >nul 2>&1
