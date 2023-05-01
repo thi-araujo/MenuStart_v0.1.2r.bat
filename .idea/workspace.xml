@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;correção da palarva temporários&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;correção da palarva nao&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,13 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00009" summary="&quot;VERIFICA ADM&quot;">
-      <created>1677262130604</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1677262130604</updated>
     </task>
     <task id="LOCAL-00010" summary="&quot;Não � possível executar este script corretamente se voce não possuir privilégios de Administrador&quot;">
       <created>1677341192437</created>
@@ -409,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682779772915</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="&quot;correção da palarva nao&quot;">
+      <created>1682906075830</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1682906075830</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -427,7 +427,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Retornando ao Menu de Ações&quot;" />
     <MESSAGE value="&quot;Return Menu de Ações&quot;" />
     <MESSAGE value="&quot;Opção 2&quot;" />
     <MESSAGE value="&quot;Opção 3&quot;" />
@@ -452,6 +451,7 @@
     <MESSAGE value="&quot;correção da palarva variáveis&quot;" />
     <MESSAGE value="&quot;correção da palarva temporário&quot;" />
     <MESSAGE value="&quot;correção da palarva temporários&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;correção da palarva temporários&quot;" />
+    <MESSAGE value="&quot;correção da palarva nao&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;correção da palarva nao&quot;" />
   </component>
 </project>
