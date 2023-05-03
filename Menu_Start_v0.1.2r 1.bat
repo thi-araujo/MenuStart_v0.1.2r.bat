@@ -39,7 +39,7 @@ if '%errorlevel%' EQU '0' (
 	timeout /t 5 >nul 2>&1
 	cls
 	echo.
-	echo O script ser� encerrado, execute ele novamente como Administrador para prosseguir.
+	echo O script será encerrado, execute ele novamente como Administrador para prosseguir.
 	timeout /t 5 >nul 2>&1
 	goto end
 	)
