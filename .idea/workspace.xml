@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;correção da mendagem: Não é possível executar este script se voce não possuir privilégio de Administrador&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;correção da mendagem: Escolha qual opção deseja executar e pressione enter:&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,13 +65,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00011" summary="&quot;script será encerrado,&quot;">
-      <created>1677441180937</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1677441180937</updated>
     </task>
     <task id="LOCAL-00012" summary="&quot;Menu de Ações,&quot;">
       <created>1677619179861</created>
@@ -411,7 +402,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682950132230</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="&quot;correção da mendagem: Escolha qual opção deseja executar e pressione enter:&quot;">
+      <created>1683155533338</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1683155533338</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -429,7 +427,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Opção 2&quot;" />
     <MESSAGE value="&quot;Opção 3&quot;" />
     <MESSAGE value="&quot;Opção 4&quot;" />
     <MESSAGE value="&quot;Opção 5&quot;" />
@@ -454,6 +451,7 @@
     <MESSAGE value="&quot;correção da palarva temporários&quot;" />
     <MESSAGE value="&quot;correção da palarva nao&quot;" />
     <MESSAGE value="&quot;correção da mendagem: Não é possível executar este script se voce não possuir privilégio de Administrador&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;correção da mendagem: Não é possível executar este script se voce não possuir privilégio de Administrador&quot;" />
+    <MESSAGE value="&quot;correção da mendagem: Escolha qual opção deseja executar e pressione enter:&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;correção da mendagem: Escolha qual opção deseja executar e pressione enter:&quot;" />
   </component>
 </project>
