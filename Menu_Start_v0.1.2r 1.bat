@@ -54,7 +54,7 @@ echo Escolha qual opção deseja executar e pressione enter:
 echo.
 echo 	1� Como o script funciona?
 echo.
-echo 	2� Atualiza as configurações do PC/NB + icones
+echo 	2� Atualizar as configurações do PC/NB + icones
 echo.
 echo 	3� Atualiza apenas os icones do PC/NB
 echo.
