@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="'atualizar'">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="'4� Atualiza as configurações do PD AC + icones'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
@@ -67,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00016" summary="&quot;Opção 5 Atualiza apenas os icones do PD AC&quot;">
-      <created>1678326924065</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1678326924065</updated>
     </task>
     <task id="LOCAL-00017" summary="&quot;Opção 7 Atualiza apenas os icones do PD LQC&quot;">
       <created>1678466534369</created>
@@ -411,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683249689458</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="'4� Atualiza as configurações do PD AC + icones'">
+      <created>1683337067085</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1683337067085</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -429,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Opção-5&quot;" />
     <MESSAGE value="&quot;Opção-6&quot;" />
     <MESSAGE value="&quot;Opção-8&quot;" />
     <MESSAGE value="&quot;Opção 9&quot;" />
@@ -454,6 +452,7 @@
     <MESSAGE value="&quot;correção da mendagem: configurações&quot;" />
     <MESSAGE value="&quot;correção da mendagem: Atualizar as configurações do PC/NB +icones&quot;" />
     <MESSAGE value="'atualizar'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'atualizar'" />
+    <MESSAGE value="'4� Atualiza as configurações do PD AC + icones'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'4� Atualiza as configurações do PD AC + icones'" />
   </component>
 </project>
