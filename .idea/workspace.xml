@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="'4� Atualiza as configurações do PD AC + icones'" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;6� Atualiza as configurações do PD LQC + icones&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00017" summary="&quot;Opção 7 Atualiza apenas os icones do PD LQC&quot;">
-      <created>1678466534369</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1678466534369</updated>
     </task>
     <task id="LOCAL-00018" summary="&quot;Opção 8 Versão do script&quot;">
       <created>1678550132382</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683337067085</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="&quot;6� Atualiza as configurações do PD LQC + icones&quot;">
+      <created>1683390954395</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1683390954395</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Opção-6&quot;" />
     <MESSAGE value="&quot;Opção-8&quot;" />
     <MESSAGE value="&quot;Opção 9&quot;" />
     <MESSAGE value="&quot;Opção-9&quot;" />
@@ -453,6 +452,7 @@
     <MESSAGE value="&quot;correção da mendagem: Atualizar as configurações do PC/NB +icones&quot;" />
     <MESSAGE value="'atualizar'" />
     <MESSAGE value="'4� Atualiza as configurações do PD AC + icones'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'4� Atualiza as configurações do PD AC + icones'" />
+    <MESSAGE value="&quot;6� Atualiza as configurações do PD LQC + icones&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;6� Atualiza as configurações do PD LQC + icones&quot;" />
   </component>
 </project>
