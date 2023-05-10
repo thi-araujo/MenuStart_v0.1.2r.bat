@@ -73,7 +73,7 @@ echo.
 echo 	10� Sair
 echo.
 set menuOption=
-set /p menuOption=Digite a op��o:
+set /p menuOption=Digite a opção:
 if /i '%menuOption%' EQU '1'  goto howDoesItWork
 if /i '%menuOption%' EQU '2'  goto updateDesktop
 if /i '%menuOption%' EQU '3'  goto updateIconDesktop

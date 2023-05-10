@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;7� Versão do script&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;9� Mais opções&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00019" summary="&quot;Opção 9 Mais opções&quot;">
-      <created>1678644081429</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1678644081429</updated>
     </task>
     <task id="LOCAL-00020" summary="&quot;Opção 10 Sair&quot;">
       <created>1678739174723</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683487866524</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="&quot;9� Mais opções&quot;">
+      <created>1683585426841</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1683585426841</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Opção 9&quot;" />
     <MESSAGE value="&quot;Opção-9&quot;" />
     <MESSAGE value="&quot;End&quot;" />
     <MESSAGE value="&quot;Titulo final da script&quot;" />
@@ -453,6 +452,7 @@
     <MESSAGE value="'4� Atualiza as configurações do PD AC + icones'" />
     <MESSAGE value="&quot;6� Atualiza as configurações do PD LQC + icones&quot;" />
     <MESSAGE value="&quot;7� Versão do script&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;7� Versão do script&quot;" />
+    <MESSAGE value="&quot;9� Mais opções&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;9� Mais opções&quot;" />
   </component>
 </project>
