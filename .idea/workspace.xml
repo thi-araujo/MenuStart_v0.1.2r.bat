@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Digite a opção:&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Essa não é uma opção valida !&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00021" summary="&quot;Options Menu&quot;">
-      <created>1678815607079</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1678815607079</updated>
     </task>
     <task id="LOCAL-00022" summary="&quot;Option Menu&quot;">
       <created>1679016005617</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683681054754</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="&quot;Essa não é uma opção valida !&quot;">
+      <created>1683758302134</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1683758302134</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;End&quot;" />
     <MESSAGE value="&quot;Titulo final da script&quot;" />
     <MESSAGE value="&quot;cls final da script&quot;" />
     <MESSAGE value="&quot;echo final da script&quot;" />
@@ -453,6 +452,7 @@
     <MESSAGE value="&quot;7� Versão do script&quot;" />
     <MESSAGE value="&quot;9� Mais opções&quot;" />
     <MESSAGE value="&quot;Digite a opção:&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Digite a opção:&quot;" />
+    <MESSAGE value="&quot;Essa não é uma opção valida !&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Essa não é uma opção valida !&quot;" />
   </component>
 </project>
