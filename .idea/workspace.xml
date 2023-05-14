@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;CMD&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;ÍCONES&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00024" summary="&quot;Atualizar icone desktop&quot;">
-      <created>1679170451831</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1679170451831</updated>
     </task>
     <task id="LOCAL-00025" summary="&quot;Atualizar PD LQC &quot;">
       <created>1679492054987</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683926194275</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="&quot;ÍCONES&quot;">
+      <created>1684001700030</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1684001700031</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;echo final da script&quot;" />
     <MESSAGE value="&quot;Finalizando o script&quot;" />
     <MESSAGE value="&quot;Habilitando app Caffeine&quot;" />
     <MESSAGE value="&quot;\timeout&quot;" />
@@ -453,6 +452,7 @@
     <MESSAGE value="&quot;Essa não é uma opção valida !&quot;" />
     <MESSAGE value="&quot;Retornando ao menu opções&quot;" />
     <MESSAGE value="&quot;CMD&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;CMD&quot;" />
+    <MESSAGE value="&quot;ÍCONES&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;ÍCONES&quot;" />
   </component>
 </project>
