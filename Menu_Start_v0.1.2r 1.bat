@@ -160,7 +160,7 @@ call src\scripts\subMenu\submenu.bat
 title Finishing the script
 cls
 echo.
-echo Finalizando o script!
+echo Finalizando o Script!
 taskkill /f /im caffeine.exe >nul 2>&1
 timeout /t 5 >nul 2>&1
 exit
