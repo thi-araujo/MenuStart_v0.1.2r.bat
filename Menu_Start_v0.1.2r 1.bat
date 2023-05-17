@@ -1,6 +1,6 @@
 @echo off
 
-::Data da criação: 18/09/2022
+::Data da Criação: 18/09/2022
 ::Data da revisão: 15/05/2023
 ::Autor: Thiago Araújo
 

@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Data da revisão&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Script&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00027" summary="&quot;Verificar Versão &quot;">
-      <created>1679699352857</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1679699352857</updated>
     </task>
     <task id="LOCAL-00028" summary="&quot;SubMenu &quot;">
       <created>1679769622418</created>
@@ -412,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684196033880</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="&quot;Script&quot;">
+      <created>1684269522881</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1684269522881</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -430,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;\timeout&quot;" />
     <MESSAGE value="&quot;Exit&quot;" />
     <MESSAGE value="&quot;Data criação&quot;" />
     <MESSAGE value="&quot;Data revisão&quot;" />
@@ -455,6 +452,7 @@
     <MESSAGE value="&quot;ÍCONES&quot;" />
     <MESSAGE value="&quot;ÍCONE&quot;" />
     <MESSAGE value="&quot;Data da revisão&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Data da revisão&quot;" />
+    <MESSAGE value="&quot;Script&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Script&quot;" />
   </component>
 </project>
