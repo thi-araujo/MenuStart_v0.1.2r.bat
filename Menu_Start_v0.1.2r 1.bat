@@ -1,7 +1,7 @@
 @echo off
 
 ::Data da Criação: 18/09/2022
-::Data da revisão: 15/05/2023
+::Data da Revisão: 15/05/2023
 ::Autor: Thiago Araújo
 
 ::Altera a página do cmd para 1252 trabalhando assim com acentos e caracteres especiais
