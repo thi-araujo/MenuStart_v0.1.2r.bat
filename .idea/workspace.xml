@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Criação&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Revisão&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00029" summary="&quot;End &quot;">
-      <created>1679847189842</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1679847189842</updated>
     </task>
     <task id="LOCAL-00030" summary="&quot;Opcção invalida&quot;">
       <created>1679960215025</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684361831703</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="&quot;Revisão&quot;">
+      <created>1684453862031</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1684453862031</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Data criação&quot;" />
     <MESSAGE value="&quot;Data revisão&quot;" />
     <MESSAGE value="&quot;página&quot;" />
     <MESSAGE value="&quot;correção da palarva variáveis&quot;" />
@@ -453,6 +452,7 @@
     <MESSAGE value="&quot;Data da revisão&quot;" />
     <MESSAGE value="&quot;Script&quot;" />
     <MESSAGE value="&quot;Criação&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Criação&quot;" />
+    <MESSAGE value="&quot;Revisão&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Revisão&quot;" />
   </component>
 </project>
