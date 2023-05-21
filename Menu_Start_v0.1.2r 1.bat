@@ -14,7 +14,7 @@ cd %folderScript%
 ::Vers�o do script
 set version=Script V0.4.2r
 
-::Define as Variáveis dos arquivos temporário
+::Define as Variáveis dos Arquivos temporário
 set returnMenu=%tmp%\returnMenu.txt
 set returnFirstMenu=%tmp%\returnFirstMenu.txt
 set returnSubMenu=%tmp%\returnSubMenu.txt
