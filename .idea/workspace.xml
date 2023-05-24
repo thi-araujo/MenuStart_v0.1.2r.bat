@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Temporários&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Verifica se o CMD esta sendo executado como ADM&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +68,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00033" summary="&quot;Return Menu de Ações&quot;">
-      <created>1680229283465</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1680229283465</updated>
     </task>
     <task id="LOCAL-00034" summary="&quot;Opção 2&quot;">
       <created>1680379112504</created>
@@ -410,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684806672035</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="&quot;Verifica se o CMD esta sendo executado como ADM&quot;">
+      <created>1684878527126</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1684878527126</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +430,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;correção da palarva temporário&quot;" />
     <MESSAGE value="&quot;correção da palarva temporários&quot;" />
     <MESSAGE value="&quot;correção da palarva nao&quot;" />
     <MESSAGE value="&quot;correção da mendagem: Não é possível executar este script se voce não possuir privilégio de Administrador&quot;" />
@@ -453,6 +454,7 @@
     <MESSAGE value="&quot;Variáveis&quot;" />
     <MESSAGE value="&quot;Arquivos&quot;" />
     <MESSAGE value="&quot;Temporários&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Temporários&quot;" />
+    <MESSAGE value="&quot;Verifica se o CMD esta sendo executado como ADM&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Verifica se o CMD esta sendo executado como ADM&quot;" />
   </component>
 </project>
