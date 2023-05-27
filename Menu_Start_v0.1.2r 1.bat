@@ -56,7 +56,7 @@ echo 	1 - Como o script funciona?
 echo.
 echo 	2 - Atualizar as configurações do PC/NB + Ícones
 echo.
-echo 	3� Atualiza apenas os icones do PC/NB
+echo 	3 - Atualiza apenas os icones do PC/NB
 echo.
 echo 	4� Atualiza as configurações do PD AC + icones
 echo.

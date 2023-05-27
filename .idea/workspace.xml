@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;1 - Como o script funciona?&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;2 - Atualizar as configurações do PC/NB + Ícones&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00035" summary="&quot;Opção 2&quot;">
-      <created>1680463677177</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1680463677177</updated>
     </task>
     <task id="LOCAL-00036" summary="&quot;Opção 3&quot;">
       <created>1680542701506</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684967352555</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="&quot;2 - Atualizar as configurações do PC/NB + Ícones&quot;">
+      <created>1685013332280</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1685013332280</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;correção da palarva nao&quot;" />
     <MESSAGE value="&quot;correção da mendagem: Não é possível executar este script se voce não possuir privilégio de Administrador&quot;" />
     <MESSAGE value="&quot;correção da mendagem: Escolha qual opção deseja executar e pressione enter:&quot;" />
     <MESSAGE value="&quot;correção da mendagem: configurações&quot;" />
@@ -453,6 +452,7 @@
     <MESSAGE value="&quot;Temporários&quot;" />
     <MESSAGE value="&quot;Verifica se o CMD esta sendo executado como ADM&quot;" />
     <MESSAGE value="&quot;1 - Como o script funciona?&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;1 - Como o script funciona?&quot;" />
+    <MESSAGE value="&quot;2 - Atualizar as configurações do PC/NB + Ícones&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;2 - Atualizar as configurações do PC/NB + Ícones&quot;" />
   </component>
 </project>
