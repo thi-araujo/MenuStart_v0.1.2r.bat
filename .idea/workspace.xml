@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;3 - Atualiza apenas os icones do PC/NB&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;4 - Atualiza as configurações do PD AC + icones&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +68,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00037" summary="&quot;Opção 4&quot;">
-      <created>1680613909644</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1680613909644</updated>
     </task>
     <task id="LOCAL-00038" summary="&quot;Opção 5&quot;">
       <created>1680816633446</created>
@@ -410,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685154023177</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="&quot;4 - Atualiza as configurações do PD AC + icones&quot;">
+      <created>1685198712043</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1685198712058</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +430,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;correção da mendagem: Escolha qual opção deseja executar e pressione enter:&quot;" />
     <MESSAGE value="&quot;correção da mendagem: configurações&quot;" />
     <MESSAGE value="&quot;correção da mendagem: Atualizar as configurações do PC/NB +icones&quot;" />
     <MESSAGE value="'atualizar'" />
@@ -453,6 +454,7 @@
     <MESSAGE value="&quot;1 - Como o script funciona?&quot;" />
     <MESSAGE value="&quot;2 - Atualizar as configurações do PC/NB + Ícones&quot;" />
     <MESSAGE value="&quot;3 - Atualiza apenas os icones do PC/NB&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;3 - Atualiza apenas os icones do PC/NB&quot;" />
+    <MESSAGE value="&quot;4 - Atualiza as configurações do PD AC + icones&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;4 - Atualiza as configurações do PD AC + icones&quot;" />
   </component>
 </project>
