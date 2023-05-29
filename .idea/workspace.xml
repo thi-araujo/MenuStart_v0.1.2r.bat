@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;4 - Atualiza as configurações do PD AC + icones&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;5 - Atualiza apenas os icones do PD AC&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00038" summary="&quot;Opção 5&quot;">
-      <created>1680816633446</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1680816633446</updated>
     </task>
     <task id="LOCAL-00039" summary="&quot;Opção-5&quot;">
       <created>1680884667326</created>
@@ -412,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685198712058</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="&quot;5 - Atualiza apenas os icones do PD AC&quot;">
+      <created>1685300795420</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1685300795420</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -430,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;correção da mendagem: configurações&quot;" />
     <MESSAGE value="&quot;correção da mendagem: Atualizar as configurações do PC/NB +icones&quot;" />
     <MESSAGE value="'atualizar'" />
     <MESSAGE value="'4� Atualiza as configurações do PD AC + icones'" />
@@ -455,6 +452,7 @@
     <MESSAGE value="&quot;2 - Atualizar as configurações do PC/NB + Ícones&quot;" />
     <MESSAGE value="&quot;3 - Atualiza apenas os icones do PC/NB&quot;" />
     <MESSAGE value="&quot;4 - Atualiza as configurações do PD AC + icones&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;4 - Atualiza as configurações do PD AC + icones&quot;" />
+    <MESSAGE value="&quot;5 - Atualiza apenas os icones do PD AC&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;5 - Atualiza apenas os icones do PD AC&quot;" />
   </component>
 </project>

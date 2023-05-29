@@ -62,7 +62,7 @@ echo 	4 - Atualiza as configurações do PD AC + icones
 echo.
 echo 	5 - Atualiza apenas os icones do PD AC
 echo.
-echo 	6� Atualiza as configurações do PD LQC + icones
+echo 	6 - Atualiza as configurações do PD LQC + icones
 echo.
 echo 	7� Atualiza apenas os icones do PD LQC
 echo.
