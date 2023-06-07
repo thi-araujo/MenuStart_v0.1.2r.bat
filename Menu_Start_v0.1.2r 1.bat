@@ -91,7 +91,7 @@ echo Essa não é uma Opção válida !
 timeout /t 5 >nul 2>&1
 cls
 echo.
-echo Retornando ao menu de opções
+echo Retornando ao Menu de opções
 timeout /t 5 >nul 2>&1
 goto menu
 
