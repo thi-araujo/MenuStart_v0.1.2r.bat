@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;10 - Sair&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;opção&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00044" summary="&quot;End&quot;">
-      <created>1681498413731</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1681498413731</updated>
     </task>
     <task id="LOCAL-00045" summary="&quot;Titulo final da script&quot;">
       <created>1681553863832</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685926205840</updated>
     </task>
-    <option name="localTasksCounter" value="93" />
+    <task id="LOCAL-00093" summary="&quot;opção&quot;">
+      <created>1685985457107</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1685985457107</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;9� Mais opções&quot;" />
     <MESSAGE value="&quot;Digite a opção:&quot;" />
     <MESSAGE value="&quot;Essa não é uma opção valida !&quot;" />
     <MESSAGE value="&quot;Retornando ao menu opções&quot;" />
@@ -453,6 +452,7 @@
     <MESSAGE value="&quot;8 - Versão do Script&quot;" />
     <MESSAGE value="&quot;9 - Mais opções&quot;" />
     <MESSAGE value="&quot;10 - Sair&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;10 - Sair&quot;" />
+    <MESSAGE value="&quot;opção&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;opção&quot;" />
   </component>
 </project>
