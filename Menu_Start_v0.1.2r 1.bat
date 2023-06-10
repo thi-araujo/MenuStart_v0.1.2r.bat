@@ -68,7 +68,7 @@ echo 	7 - Atualiza apenas os icones do PD LQC
 echo.
 echo 	8 - Versão do Script
 echo.
-echo 	9 - Mais opções
+echo 	9 - Mais Opções
 echo.
 echo 	10 - Sair
 echo.

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Menu&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Menu de Opções&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00047" summary="&quot;echo final da script&quot;">
-      <created>1681778629754</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1681778629756</updated>
     </task>
     <task id="LOCAL-00048" summary="&quot;Finalizando o script&quot;">
       <created>1681865200689</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686139229496</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="&quot;Menu de Opções&quot;">
+      <created>1686246954869</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1686246954869</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Retornando ao menu opções&quot;" />
     <MESSAGE value="&quot;CMD&quot;" />
     <MESSAGE value="&quot;ÍCONES&quot;" />
     <MESSAGE value="&quot;ÍCONE&quot;" />
@@ -453,6 +452,7 @@
     <MESSAGE value="&quot;opção&quot;" />
     <MESSAGE value="&quot;válida&quot;" />
     <MESSAGE value="&quot;Menu&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Menu&quot;" />
+    <MESSAGE value="&quot;Menu de Opções&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Menu de Opções&quot;" />
   </component>
 </project>
