@@ -50,7 +50,7 @@ cls
 title Options menu
 
 echo.
-echo Escolha qual opção deseja executar e pressione enter:
+echo Escolha qual opção deseja Executar e pressione enter:
 echo.
 echo 	1 - Como o script funciona?
 echo.
