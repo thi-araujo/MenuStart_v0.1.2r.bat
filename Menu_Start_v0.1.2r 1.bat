@@ -52,7 +52,7 @@ title Options menu
 echo.
 echo Escolha qual opção deseja Executar e pressione enter:
 echo.
-echo 	1 - Como o script funciona?
+echo 	1 - Como o SCRIPT funciona?
 echo.
 echo 	2 - Atualizar as configurações do PC/NB + Ícones
 echo.
