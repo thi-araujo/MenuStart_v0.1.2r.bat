@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;SCRIPT&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Ícones&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00052" summary="&quot;Data criação&quot;">
-      <created>1682296753771</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1682296753771</updated>
     </task>
     <task id="LOCAL-00053" summary="&quot;Data revisão&quot;">
       <created>1682384225662</created>
@@ -412,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686679384282</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="&quot;Ícones&quot;">
+      <created>1686777216195</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1686777216195</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -430,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Script&quot;" />
     <MESSAGE value="&quot;Criação&quot;" />
     <MESSAGE value="&quot;Revisão&quot;" />
     <MESSAGE value="&quot;Variáveis&quot;" />
@@ -455,6 +452,7 @@
     <MESSAGE value="&quot;Configurações&quot;" />
     <MESSAGE value="&quot;Icores&quot;" />
     <MESSAGE value="&quot;SCRIPT&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;SCRIPT&quot;" />
+    <MESSAGE value="&quot;Ícones&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Ícones&quot;" />
   </component>
 </project>

@@ -54,7 +54,7 @@ echo Escolha qual opção deseja Executar e pressione enter:
 echo.
 echo 	1 - Como o SCRIPT funciona?
 echo.
-echo 	2 - Atualizar as configurações do PC/NB + Ícones
+echo 	2 - Atualizar as Configurações do PC/NB + Ícones
 echo.
 echo 	3 - Atualiza apenas os Ícones do PC/NB
 echo.
