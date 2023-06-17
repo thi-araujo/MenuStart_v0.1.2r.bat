@@ -60,7 +60,7 @@ echo 	3 - Atualiza apenas os Ícones do PC/NB
 echo.
 echo 	4 - Atualiza as Configurações do PD AC + icones
 echo.
-echo 	5 - Atualiza apenas os icones do PD AC
+echo 	5 - Atualiza apenas os Ícones do PD AC
 echo.
 echo 	6 - Atualiza as configurações do PD LQC + Ícones
 echo.
