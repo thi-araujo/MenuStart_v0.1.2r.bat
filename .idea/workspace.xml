@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Finalizando o SCRIPT&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opção Valida&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00056" summary="&quot;correção da palarva temporário&quot;">
-      <created>1682721424604</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1682721424604</updated>
     </task>
     <task id="LOCAL-00057" summary="&quot;correção da palarva temporários&quot;">
       <created>1682779772915</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687037810448</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="&quot;Opção Valida&quot;">
+      <created>1687136770825</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1687136770825</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Revisão&quot;" />
     <MESSAGE value="&quot;Variáveis&quot;" />
     <MESSAGE value="&quot;Arquivos&quot;" />
     <MESSAGE value="&quot;Temporários&quot;" />
@@ -453,6 +452,7 @@
     <MESSAGE value="&quot;Configurações&quot;" />
     <MESSAGE value="&quot;Ícones&quot;" />
     <MESSAGE value="&quot;Finalizando o SCRIPT&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Finalizando o SCRIPT&quot;" />
+    <MESSAGE value="&quot;Opção Valida&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Opção Valida&quot;" />
   </component>
 </project>
