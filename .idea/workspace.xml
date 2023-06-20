@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opção Valida&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Icones do PD LQC&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +68,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00057" summary="&quot;correção da palarva temporários&quot;">
-      <created>1682779772915</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1682779772915</updated>
     </task>
     <task id="LOCAL-00058" summary="&quot;correção da palarva nao&quot;">
       <created>1682906075830</created>
@@ -410,7 +405,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687136770825</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="&quot;Icones do PD LQC&quot;">
+      <created>1687176668327</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1687176668327</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +430,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Variáveis&quot;" />
     <MESSAGE value="&quot;Arquivos&quot;" />
     <MESSAGE value="&quot;Temporários&quot;" />
     <MESSAGE value="&quot;Verifica se o CMD esta sendo executado como ADM&quot;" />
@@ -453,6 +454,7 @@
     <MESSAGE value="&quot;Ícones&quot;" />
     <MESSAGE value="&quot;Finalizando o SCRIPT&quot;" />
     <MESSAGE value="&quot;Opção Valida&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Opção Valida&quot;" />
+    <MESSAGE value="&quot;Icones do PD LQC&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Icones do PD LQC&quot;" />
   </component>
 </project>
