@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Não é possível executar este Scrip&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;O SCRIPT será encerrado&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00060" summary="&quot;correção da mendagem: Escolha qual opção deseja executar e pressione enter:&quot;">
-      <created>1683155533338</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1683155533338</updated>
     </task>
     <task id="LOCAL-00061" summary="&quot;correção da mendagem: configurações&quot;">
       <created>1683249358776</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687433131653</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="&quot;O SCRIPT será encerrado&quot;">
+      <created>1687569916386</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1687569916386</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Verifica se o CMD esta sendo executado como ADM&quot;" />
     <MESSAGE value="&quot;1 - Como o script funciona?&quot;" />
     <MESSAGE value="&quot;2 - Atualizar as configurações do PC/NB + Ícones&quot;" />
     <MESSAGE value="&quot;3 - Atualiza apenas os icones do PC/NB&quot;" />
@@ -453,6 +452,7 @@
     <MESSAGE value="&quot;Icones do PD LQC&quot;" />
     <MESSAGE value="&quot; Atualiza as ConfiguraçõesC&quot;" />
     <MESSAGE value="&quot;Não é possível executar este Scrip&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Não é possível executar este Scrip&quot;" />
+    <MESSAGE value="&quot;O SCRIPT será encerrado&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;O SCRIPT será encerrado&quot;" />
   </component>
 </project>
