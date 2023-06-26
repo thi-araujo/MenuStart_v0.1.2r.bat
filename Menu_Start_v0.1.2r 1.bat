@@ -70,7 +70,7 @@ echo 	8 - Versão do Script
 echo.
 echo 	9 - Mais Opções
 echo.
-echo 	10 - Sair
+echo 	10 - SAIR
 echo.
 set menuOption=
 set /p menuOption=Digite a opção:
