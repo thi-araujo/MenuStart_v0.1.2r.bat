@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;ENTER&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Opção SAIR&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00062" summary="&quot;correção da mendagem: Atualizar as configurações do PC/NB +icones&quot;">
-      <created>1683249470840</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1683249470840</updated>
     </task>
     <task id="LOCAL-00063" summary="'atualizar'">
       <created>1683249624273</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687649422180</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="&quot;Opção SAIR&quot;">
+      <created>1687743621297</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1687743621298</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;2 - Atualizar as configurações do PC/NB + Ícones&quot;" />
     <MESSAGE value="&quot;3 - Atualiza apenas os icones do PC/NB&quot;" />
     <MESSAGE value="&quot;4 - Atualiza as configurações do PD AC + icones&quot;" />
     <MESSAGE value="&quot;5 - Atualiza apenas os icones do PD AC&quot;" />
@@ -453,6 +452,7 @@
     <MESSAGE value="&quot;Não é possível executar este Scrip&quot;" />
     <MESSAGE value="&quot;O SCRIPT será encerrado&quot;" />
     <MESSAGE value="&quot;ENTER&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;ENTER&quot;" />
+    <MESSAGE value="&quot;Opção SAIR&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Opção SAIR&quot;" />
   </component>
 </project>
