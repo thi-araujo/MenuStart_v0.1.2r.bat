@@ -35,7 +35,7 @@ if '%errorlevel%' EQU '0' (
 ) else (
 	cls
 	echo.
-	echo Não é possível executar este Script corretamente se você não possuir privilégios de Administrador
+	echo Não é possível Executar este Script corretamente se você não possuir privilégios de Administrador
 	timeout /t 5 >nul 2>&1
 	cls
 	echo.
