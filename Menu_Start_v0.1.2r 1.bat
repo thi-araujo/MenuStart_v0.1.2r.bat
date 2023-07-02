@@ -66,7 +66,7 @@ echo 	6 - Atualiza as Configurações dos PD LQC Ícones
 echo.
 echo 	7 - Atualiza apenas os Icones do PD LQC
 echo.
-echo 	8 - Versão do Script
+echo 	8 - Versão do SCRIPT
 echo.
 echo 	9 - Mais Opções
 echo.

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Executar&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;O SCRIPT será Encerrado,&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00065" summary="'4� Atualiza as configurações do PD AC + icones'">
-      <created>1683337067085</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1683337067085</updated>
     </task>
     <task id="LOCAL-00066" summary="&quot;6� Atualiza as configurações do PD LQC + icones&quot;">
       <created>1683390954395</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688159329924</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="&quot;O SCRIPT será Encerrado,&quot;">
+      <created>1688266338564</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1688266338564</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;5 - Atualiza apenas os icones do PD AC&quot;" />
     <MESSAGE value="&quot;6 - Atualiza as configurações do PD LQC + icones&quot;" />
     <MESSAGE value="&quot;7 - Atualiza apenas os icones do PD LQC&quot;" />
     <MESSAGE value="&quot;8 - Versão do Script&quot;" />
@@ -453,6 +452,7 @@
     <MESSAGE value="&quot;Opção SAIR&quot;" />
     <MESSAGE value="&quot;Thiago&quot;" />
     <MESSAGE value="&quot;Executar&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Executar&quot;" />
+    <MESSAGE value="&quot;O SCRIPT será Encerrado,&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;O SCRIPT será Encerrado,&quot;" />
   </component>
 </project>
