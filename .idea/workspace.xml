@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;O SCRIPT será Encerrado,&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;ersão do SCRIPT&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00066" summary="&quot;6� Atualiza as configurações do PD LQC + icones&quot;">
-      <created>1683390954395</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1683390954395</updated>
     </task>
     <task id="LOCAL-00067" summary="&quot;7� Versão do script&quot;">
       <created>1683487866524</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688266338564</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="&quot;ersão do SCRIPT&quot;">
+      <created>1688336087722</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1688336087722</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;6 - Atualiza as configurações do PD LQC + icones&quot;" />
     <MESSAGE value="&quot;7 - Atualiza apenas os icones do PD LQC&quot;" />
     <MESSAGE value="&quot;8 - Versão do Script&quot;" />
     <MESSAGE value="&quot;9 - Mais opções&quot;" />
@@ -453,6 +452,7 @@
     <MESSAGE value="&quot;Thiago&quot;" />
     <MESSAGE value="&quot;Executar&quot;" />
     <MESSAGE value="&quot;O SCRIPT será Encerrado,&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;O SCRIPT será Encerrado,&quot;" />
+    <MESSAGE value="&quot;ersão do SCRIPT&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;ersão do SCRIPT&quot;" />
   </component>
 </project>
