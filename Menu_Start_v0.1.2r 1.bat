@@ -4,7 +4,7 @@
 ::Data da Revisão: 15/05/2023
 ::Autor: Thiago
 
-::Altera a Página do CMD para 1252 trabalhando assim com acentos e caracteres especiais
+::Altera a Página do CMD para 1252 trabalhando assim com Acentos e caracteres especiais
 chcp 1252 >nul 2>&1
 
 ::Define o caminho do script
