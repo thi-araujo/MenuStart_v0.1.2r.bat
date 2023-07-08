@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Acentosr&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Caracteres&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00070" summary="&quot;Essa não é uma opção valida !&quot;">
-      <created>1683758302134</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1683758302134</updated>
     </task>
     <task id="LOCAL-00071" summary="&quot;Retornando ao menu opções&quot;">
       <created>1683837316794</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688692078957</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="&quot;Caracteres&quot;">
+      <created>1688767342021</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1688767342021</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;10 - Sair&quot;" />
     <MESSAGE value="&quot;opção&quot;" />
     <MESSAGE value="&quot;válida&quot;" />
     <MESSAGE value="&quot;Menu&quot;" />
@@ -453,6 +452,7 @@
     <MESSAGE value="&quot;Prosseguir&quot;" />
     <MESSAGE value="&quot;Prossseguir&quot;" />
     <MESSAGE value="&quot;Acentosr&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Acentosr&quot;" />
+    <MESSAGE value="&quot;Caracteres&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Caracteres&quot;" />
   </component>
 </project>
