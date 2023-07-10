@@ -28,7 +28,7 @@ del /q %returnMenu%       >nul 2>&1
 del /q %returnFirstMenu%  >nul 2>&1
 del /q %returnSubMenu%    >nul 2>&1
 
-::Verifica se o CMD esta sendo executado como ADM
+::Verifica se o CMD esta sendo Executado como ADM
 net file >nul 2>&1
 if '%errorlevel%' EQU '0' (
 	goto menu
