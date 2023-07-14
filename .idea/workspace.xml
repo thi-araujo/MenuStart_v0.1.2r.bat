@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Privilegios&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Execute&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00074" summary="&quot;ÍCONE&quot;">
-      <created>1684093702561</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1684093702561</updated>
     </task>
     <task id="LOCAL-00075" summary="&quot;Data da revisão&quot;">
       <created>1684196033880</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689037252216</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="&quot;Execute&quot;">
+      <created>1689127284726</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1689127284726</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Menu de Opções&quot;" />
     <MESSAGE value="&quot;MaisOpções&quot;" />
     <MESSAGE value="&quot;Icores&quot;" />
     <MESSAGE value="&quot;SCRIPT&quot;" />
@@ -453,6 +452,7 @@
     <MESSAGE value="&quot;Especiais&quot;" />
     <MESSAGE value="&quot;Executado&quot;" />
     <MESSAGE value="&quot;Privilegios&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Privilegios&quot;" />
+    <MESSAGE value="&quot;Execute&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Execute&quot;" />
   </component>
 </project>
