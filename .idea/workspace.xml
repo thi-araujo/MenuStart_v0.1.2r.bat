@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Execute&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;SCRIPT&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00075" summary="&quot;Data da revisão&quot;">
-      <created>1684196033880</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1684196033880</updated>
     </task>
     <task id="LOCAL-00076" summary="&quot;Script&quot;">
       <created>1684269522881</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689127284726</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="&quot;SCRIPT&quot;">
+      <created>1689297385694</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1689297385694</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -430,7 +430,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;MaisOpções&quot;" />
     <MESSAGE value="&quot;Icores&quot;" />
-    <MESSAGE value="&quot;SCRIPT&quot;" />
     <MESSAGE value="&quot;Configurações&quot;" />
     <MESSAGE value="&quot;Ícones&quot;" />
     <MESSAGE value="&quot;Finalizando o SCRIPT&quot;" />
@@ -453,6 +452,7 @@
     <MESSAGE value="&quot;Executado&quot;" />
     <MESSAGE value="&quot;Privilegios&quot;" />
     <MESSAGE value="&quot;Execute&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Execute&quot;" />
+    <MESSAGE value="&quot;SCRIPT&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;SCRIPT&quot;" />
   </component>
 </project>
