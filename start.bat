@@ -11,7 +11,7 @@ chcp 1252 >nul 2>&1
 set folderScript=%~dp0
 cd %folderScript%
 
-::Vers�o do script
+::Versão do Script
 set version=Script V0.4.2r
 
 ::Define as variaveis dos arquivos tempor�rio
