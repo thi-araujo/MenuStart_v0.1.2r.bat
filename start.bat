@@ -7,7 +7,7 @@
 ::Altera a página do cmd para 1252 trabalhando assim com acentos e caracteres especiais
 chcp 1252 >nul 2>&1
 
-::Define o caminho do script
+::Define o caminho do SCRIPT
 set folderScript=%~dp0
 cd %folderScript%
 
