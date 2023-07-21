@@ -4,7 +4,7 @@
 ::Data da revis�o: 23/12/2022
 
 
-::Altera a página do cmd para 1252 trabalhando assim com acentos e caracteres especiais
+::Altera a Página do cmd para 1252 trabalhando assim com acentos e caracteres especiais
 chcp 1252 >nul 2>&1
 
 ::Define o caminho do SCRIPT

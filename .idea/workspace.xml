@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;SCRIPT Version&quot;" />
+    <list default="true" id="5b796c5e-d745-4872-ab28-eb2b14c3d659" name="Changes" comment="&quot;Caminho do SCRIPT&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,13 +66,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676309005918</updated>
-    </task>
-    <task id="LOCAL-00078" summary="&quot;Revisão&quot;">
-      <created>1684453862031</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1684453862031</updated>
     </task>
     <task id="LOCAL-00079" summary="&quot;Variáveis&quot;">
       <created>1684621086605</created>
@@ -410,7 +403,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689732069069</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="&quot;Caminho do SCRIPT&quot;">
+      <created>1689818094964</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1689818094964</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -428,7 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Configurações&quot;" />
     <MESSAGE value="&quot;Ícones&quot;" />
     <MESSAGE value="&quot;Finalizando o SCRIPT&quot;" />
     <MESSAGE value="&quot;Opção Valida&quot;" />
@@ -453,6 +452,7 @@
     <MESSAGE value="&quot;SCRIPT&quot;" />
     <MESSAGE value="&quot;SCRIPT Versão&quot;" />
     <MESSAGE value="&quot;SCRIPT Version&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;SCRIPT Version&quot;" />
+    <MESSAGE value="&quot;Caminho do SCRIPT&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Caminho do SCRIPT&quot;" />
   </component>
 </project>
